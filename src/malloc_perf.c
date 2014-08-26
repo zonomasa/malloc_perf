@@ -8,15 +8,17 @@ int s_sizeArray[] = {8, 16, 32, 64, 128, 256, 512, 1024, 2048, 4096, 8192, 16384
 void
 malloc_perf(void)
 {
-    for (int i = 0; i < 14; i++){
+    struct timeval tv;
 
+    for (int i = 0; i < 14; i++){
         
+    }
 }
 
 void
 free_perf(void)
 {
-    
+
 
 }
 
